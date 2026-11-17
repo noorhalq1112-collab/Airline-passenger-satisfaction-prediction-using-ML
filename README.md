@@ -13,7 +13,8 @@ Airline Passenger Satisfaction (Kaggle):
 https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
 ## Files
-Airline_passenger_satisfaction_prediction_ML.ipynb: full code (preprocessing, training, evaluation)
+1- Airline_passenger_satisfaction_prediction_ML.ipynb: full code (preprocessing, training, evaluation)
+2- feature_selection_and_visualizations.ipynb
 
 ## Team
 Jood Aldossari, Norah Alhaqbani, Aroob Alqahtani, Norah Alqahtani 
